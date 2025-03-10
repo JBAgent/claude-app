@@ -1,0 +1,17 @@
+{
+  "name": "claude-app",
+  "version": "1.0.0",
+  "description": "Node.js application for Claude test",
+  "main": "claude-app.js",
+  "scripts": {
+    "start": "node claude-app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "claude",
+    "node",
+    "app"
+  ],
+  "author": "",
+  "license": "MIT"
+}
